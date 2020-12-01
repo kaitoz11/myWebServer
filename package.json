@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "webserver for the 1st time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitoz11/myWebServer.git"
+  },
+  "author": "kaitoz11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaitoz11/myWebServer/issues"
+  },
+  "homepage": "https://github.com/kaitoz11/myWebServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
